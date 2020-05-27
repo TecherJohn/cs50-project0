@@ -1,4 +1,4 @@
-This is a sketchy website with information about me as well as places to build upon with placeholders for future projects.
+This is a basic website with information about me as well as places to build upon with placeholders for future projects.
 
 index.html is the "Main" page and is a placeholder for an entry into the site. There is little content here.
 
